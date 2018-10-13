@@ -1,4 +1,4 @@
-package com.jf.model;
+package com.jf.kgs.model;
 
 import java.util.Observable;
 

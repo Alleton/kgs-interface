@@ -5,4 +5,4 @@
  * @author jf
  *
  */
-package com.jf.model;
+package com.jf.kgs.model;
